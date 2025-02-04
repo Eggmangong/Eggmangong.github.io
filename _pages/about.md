@@ -14,6 +14,6 @@ I obtained a Bachelor of Science in Mathematics degree from the [University of M
 
 I was a visiting student at [UC Berkeley](https://www.berkeley.edu/) in Spring 2023, and a research assistant at [Tsinghua University](https://www.tsinghua.edu.cn/) - [Information Retrieval Lab at Tsinghua University (THUIR) ](http://www.thuir.cn/) - in Summer 2023.
 
-You can find my resume here: [Gong Jinqi's Resume](../assets/Resume_Jinqi.pdf)
+You can find my resume here: [Gong Jinqi's Resume](../assets/Resume.pdf)
 
 [Email](mailto:eggmangong@gmail.com) / [Github](https://github.com/Eggmangong/) / [Linkedin](https://www.linkedin.com/in/gongjinqi) / [Instagram](https://www.instagram.com/gongjinqi/)
