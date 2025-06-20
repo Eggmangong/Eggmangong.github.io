@@ -18,14 +18,25 @@ Education
 
 Experience
 ======
+* _Data Scientist_, Avalon Mfg, Inc.
+  * Summer Internship 2025, Compton, CA
+  * Apply statistical analysis and machine learning to detect anomalies in vibration and sound data, improving precision by 28%
+  * Build a web app UI dashboard using C# to present insights to engineering teams, reducing unplanned downtime by over 40%
+  * Develop and maintain structured feature logging with PostgreSQL database, supporting scalable historical analysis
+ 
+* _Grader/Course Producer_, University of Southern California
+  * Spring 2025, Los Angeles, CA
+  * For ISE530 Optimization Methods for Analytics, by Prof. Niloufar Izadinia
+  * Grade 60+ assignments per week with attention to accuracy and timely feedback
+    
 * _Research Assistant_, Tsinghua University
-  * Summer 2023
+  * Summer 2023, Beijing, China
   * Information Retrieval Lab at Tsinghua University (THUIR)
   * Research area: Information Retrieval, Recommendation System, Neural Network, Deep Learning, Large Language Model
   * Supervisor: Ma Shaoping, Professor
  
 * _Visiting Student_, University of California, Berkeley
-  * Spring 2023
+  * Spring 2023, Berkeley, CA
   * Program: Berkeley Global Access (BGA)
 
 Research
@@ -74,6 +85,9 @@ Achievements/Awards
 
 Organizations
 ======
+* _Viterbi Graduate Student Ambassador_, University of Southern California
+  * 01/2025 - present
+  * Answer questions for prospective and incoming students on Unibuddy
 * _Viterbi Graduate Orientation Leader_, University of Southern California
   * 12/2024 - present
   * Assist with Orientation programs and other events in Spring 2025
@@ -95,8 +109,8 @@ Organizations
 
 Skills
 ======
-* Programming Languages: Python, SQL, R, Matlab, Java, C, AMPL
-* Tools: LaTeX, Markdown, Tableau, PowerBI, Excel, PowerPoint, Word
+* Programming Languages: Python, SQL, R, C#, Matlab, Java, C, AMPL
+* Tools: LaTeX, Markdown, Tableau, PowerBI, Jupyter Notebook, VS Code, Excel, PowerPoint, Word
 * Languages: Mandarin (native), English (full professional), Cantonese (professional working)
 
 Interests
