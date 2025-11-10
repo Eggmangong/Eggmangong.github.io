@@ -60,7 +60,7 @@ indicators of the Chinese Characteristics Stock Valuation (CCV) system, quantita
 characteristics of CCV stocks, and developed short-term and long-term investment portfolios with considerable returns.
 
 * Double Correction Framework for Denoising Recommendation
-  * Paper accepted by the ACM SIGKDD Conference 2024 ([https://arxiv.org/abs/2405.11272])
+  * Paper accepted by the ACM SIGKDD Conference 2024 [arxiv](https://arxiv.org/abs/2405.11272)
   * At Tsinghua University
   * _Description_. Existing loss-based approaches to discard noisy labels have two limitations: the loss is unstable due to the random
 initialization of parameters, and the discard may introduce inconsistencies in the training and testing spaces. A double correction
