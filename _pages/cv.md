@@ -84,6 +84,10 @@ mat-vecs easily. Experiments were demonstrated by using Matlab to prove the effi
   * At the University of California, Berkeley
   * _Description_. Through specific Python practice on the classic Pac-Man game to learn foundational AI concepts, such as informed state-space search, probabilistic inference, and reinforcement learning. These concepts underly real-world application areas such as natural language processing, computer vision, and robotics.
 
+* Movie Industry Database Design
+  * At the University of Macau
+  * Developed a structured database system using MySQL Workbench, covering 9 entities and relations; Optimized query efficiency by implementing 10+ SQL queries involving JOINs, aggregations, and subqueries; Created 1 view, 2 functions and 1 procedure to enhance database usability, allowing quick retrieval
+
 Achievements/Awards
 ======
 * Faculty of Science and Technology Outstanding Final Year Project (Top 3%), _2023 - 2024_
