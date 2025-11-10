@@ -125,7 +125,7 @@ Organizations
 Skills
 ======
 * Programming Languages: Python, SQL, R, C#, MATLAB, Java, C, AMPL, Swift
-* Tools: LaTeX, Markdown, Tableau, PowerBI, Jupyter Notebook, VS Code, Excel, PowerPoint, Word
+* Tools: Tableau, PowerBI, LaTeX, Markdown, Jupyter Notebook, VS Code, Git, Snowflake, HTML, Vertex AI, Excel, PowerPoint, Word
 * Languages: Mandarin (native), English (full professional), Cantonese (professional working)
 
 Interests
