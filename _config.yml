@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Jinqi Gong's Homepage"
 title_separator          : "-"
+site_theme               : "default" # Currently available options are "default", "air"
 name                     : &name "Jinqi Gong"
 description              : &description "University of Southern California"
 url                      : https://eggmangong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
