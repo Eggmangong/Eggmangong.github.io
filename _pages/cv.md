@@ -25,7 +25,7 @@ Experience
   * Integrated OpenAI LLMs and Google Cloud Speech-to-Text for transcription and structured SOAP note generation
   * Built modular, reusable pipeline components for audio conversion, speech recognition, text extraction and HTML rendering
 
-* _Data Scientist Intern_, Avalon Mfg, Inc.
+* _Data Scientist Intern_, Avalon Mfg
   * Summer 2025, Compton, CA
   * Apply statistical analysis and machine learning to detect anomalies in vibration and sound data, improving precision by 28%
   * Build a web app UI dashboard using C# to present insights to engineering teams, reducing unplanned downtime by over 40%
