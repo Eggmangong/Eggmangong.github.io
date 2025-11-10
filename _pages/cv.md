@@ -19,7 +19,7 @@ Education
 
 Experience
 ======
-* _AI Engineer Intern_
+* _AI Engineer Intern_, Aurite AI
   * Summer 2025, Mountain View, CA (Remote)
   * Engineered an automated AI workflow using the Aurite AI Agent Framework to improve efficiency on medical documentation
   * Integrated OpenAI LLMs and Google Cloud Speech-to-Text for transcription and structured SOAP note generation
