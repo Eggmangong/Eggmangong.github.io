@@ -13,13 +13,20 @@ Education
 ======
 * M.S. in Analytics, University of Southern California, 2026 (Expected)
   * Department of Industrial and Systems Engineering, Viterbi School of Engineering
+  * GPA: 4.0/4.0
 * B.S. in Mathematics with Specialization in Statistics and Data Science, University of Macau, 2024
   * Department of Mathematics, Faculty of Science and Technology
 
 Experience
 ======
-* _Data Scientist_, Avalon Mfg, Inc.
-  * Summer Internship 2025, Compton, CA
+* _AI Engineer Intern_
+  * Summer 2025, Mountain View, CA (Remote)
+  * Engineered an automated AI workflow using the Aurite AI Agent Framework to improve efficiency on medical documentation
+  * Integrated OpenAI LLMs and Google Cloud Speech-to-Text for transcription and structured SOAP note generation
+  * Built modular, reusable pipeline components for audio conversion, speech recognition, text extraction and HTML rendering
+
+* _Data Scientist Intern_, Avalon Mfg, Inc.
+  * Summer 2025, Compton, CA
   * Apply statistical analysis and machine learning to detect anomalies in vibration and sound data, improving precision by 28%
   * Build a web app UI dashboard using C# to present insights to engineering teams, reducing unplanned downtime by over 40%
   * Develop and maintain structured feature logging with PostgreSQL database, supporting scalable historical analysis
@@ -41,6 +48,10 @@ Experience
 
 Research
 ======
+* Automated ML Pipeline and Predictive Analytics Dashboard
+  * At the University of Southern California
+  * _Description_. Built a ML pipeline on GCP Vertex AI for 30-day hospital readmission prediction with preprocessing and feature engineering; Automated training and inference workflows with CatBoost model and apply SMOTE to enhance model F1 performance; Developed an interactive Tableau dashboard with KPIs, visualizations, and drill-downs, combining with patient-level insights.
+
 * Stock Model Analysis and Investment Strategy Based on Chinese Characteristics Valuation System
   * "Greater Bay Area Cup" Financial Mathematical Modeling Competition
   * Silver Medal, First Prize (Top 0.17%)
@@ -109,7 +120,7 @@ Organizations
 
 Skills
 ======
-* Programming Languages: Python, SQL, R, C#, Matlab, Java, C, AMPL
+* Programming Languages: Python, SQL, R, C#, MATLAB, Java, C, AMPL, Swift
 * Tools: LaTeX, Markdown, Tableau, PowerBI, Jupyter Notebook, VS Code, Excel, PowerPoint, Word
 * Languages: Mandarin (native), English (full professional), Cantonese (professional working)
 
