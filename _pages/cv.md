@@ -86,7 +86,7 @@ mat-vecs easily. Experiments were demonstrated by using Matlab to prove the effi
 
 * Movie Industry Database Design
   * At the University of Macau
-  * Developed a structured database system using MySQL Workbench, covering 9 entities and relations; Optimized query efficiency by implementing 10+ SQL queries involving JOINs, aggregations, and subqueries; Created 1 view, 2 functions and 1 procedure to enhance database usability, allowing quick retrieval
+  * Developed a structured database system using MySQL Workbench, covering 9 entities and relations; Optimized query efficiency by implementing 10+ SQL queries involving JOINs, aggregations, and subqueries; Created 1 view, 2 functions and 1 procedure to enhance database usability, allowing quick retrieval.
 
 Achievements/Awards
 ======
