@@ -11,14 +11,25 @@ redirect_from:
 
 Education
 ======
-* M.S. in Analytics, University of Southern California, 2026 (Expected)
+* M.S. in Analytics, University of Southern California, 2026
   * Department of Industrial and Systems Engineering, Viterbi School of Engineering
-  * GPA: 4.0/4.0
 * B.S. in Mathematics with Specialization in Statistics and Data Science, University of Macau, 2024
   * Department of Mathematics, Faculty of Science and Technology
 
 Experience
 ======
+* _Project Engineer_, Ecotron
+  * May 2026 - present, Torrance, CA
+  * Managed client communication, commercial negotiations, and cross-functional project coordination across 20+ customers
+  * Led $1M+ in customer orders through supply chain management, technical support, and global business development
+  * Analyzed sales, market, and operational data to support product strategy with the CEO, generating a 15% increase in revenue
+
+* _IT Engineer_, GOFO
+  * March 2026 - May 2026, Chino, CA
+  * Maintained internal logistics systems and collaborated with business teams to troubleshoot issues and optimize workflows
+  * Built a warehouse relocation tracking system for real-time shipment monitor and process control, improving efficiency by 30%
+  * Streamlined logistics operations through workflow analysis and agile development, reducing manual workload by 10%
+
 * _AI Engineer Intern_, Aurite AI
   * Summer 2025, Mountain View, CA (Remote)
   * Engineered an automated AI workflow using the Aurite AI Agent Framework to improve efficiency on medical documentation
